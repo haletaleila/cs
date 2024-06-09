@@ -5,3 +5,4 @@ const obj = {
 const obj2 = {
     a: 27
 }
+console.log(obj === obj2)
